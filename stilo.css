@@ -122,6 +122,11 @@ article > picture > img{
 video{
     max-width: 1000px;
 }
+body  p{
+    font-family: var(--text-font);
+    padding: 15px;
+    line-height: 1.6em;
+}
 footer{
     background-color: var(--cor4);
     padding: 15px;
